@@ -1,5 +1,6 @@
 # Superstore-Sales-Dashboard
 
+![image](https://github.com/user-attachments/assets/2e5c941a-6c5a-417a-a15a-a3572dc8b629)
 
 
 This dashboard provides a dynamic and interactive view of Super Store sales data for the United States, allowing users to analyze sales, profit, and discount data across different states, regions, categories, and sub-categories. The dashboard is fully driven by slicers, allowing for real-time filtering and data updates.
