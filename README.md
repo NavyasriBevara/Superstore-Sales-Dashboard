@@ -32,3 +32,7 @@ This dashboard provides a dynamic and interactive view of Super Store sales data
 3. *Interactivity*: Each slicer interacts with all elements of the dashboard, ensuring that every metric, chart, and visualization updates dynamically.
 
 This dynamic *Super Store Sales Dashboard* provides an intuitive, filter-driven exploration of sales, profit, and discount performance across the U.S.
+
+## Name  : B.Navyasri
+## Email : bevaranavyasri2005@gmail.com
+## linkedin: llinkedin.com/in/navyasri-bevara-5a4414308/
